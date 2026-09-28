@@ -1,0 +1,14 @@
+<!-- Logo provisional de Espartanos. Reemplazar este archivo por el logo real (mismo nombre). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="360" viewBox="0 0 420 360">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8b070"/>
+      <stop offset="1" stop-color="#7a4a1f"/>
+    </linearGradient>
+  </defs>
+  <!-- Casco corintio -->
+  <path d="M210 30 C150 30 118 78 118 138 V232 H168 V180 C168 164 178 154 192 154 V250 H228 V154 C242 154 252 164 252 180 V232 H302 V138 C302 78 270 30 210 30 Z" fill="url(#b)" stroke="#4a2c10" stroke-width="4"/>
+  <path d="M150 20 C180 -2 240 -2 270 20 L262 34 C236 18 184 18 158 34 Z" fill="#9b1c1c"/>
+  <text x="210" y="312" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="8" fill="#efe6d6">ESPARTANOS</text>
+  <text x="210" y="342" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="10" fill="#c8873f">SEGURIDAD</text>
+</svg>
